@@ -253,7 +253,7 @@
 .elementor-8
   .elementor-element.elementor-element-ffbd0a0
   > .elementor-background-overlay {
-  background-image: url("http://doggo.vip/wp-content/uploads/2024/10/Untitled-4.png");
+  background-image: url("/wp-content/uploads/2024/10/background.png");
   background-position: bottom center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2698,7 +2698,6 @@
 .elementor-8
   .elementor-element.elementor-element-212ecd0
   > .elementor-background-overlay {
-  background-image: url("http://doggo.vip/wp-content/uploads/2024/10/doggo.png");
   background-position: center right;
   background-repeat: no-repeat;
   opacity: 0.28;
